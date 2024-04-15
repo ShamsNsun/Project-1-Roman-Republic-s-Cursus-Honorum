@@ -106,8 +106,8 @@ int main() {
     unordered_map<string, int> officePositions;
     vector<Politician> consuls;
 
-    // Initialization: Set initial political landscape and PSI
-    // For simplicity, assume initial values are set
+   
+  
 
     // Run simulation for 200 years
     for (int year = 0; year < 200; ++year) {
